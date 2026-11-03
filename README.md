@@ -1,3 +1,3 @@
 # git-demo
 
-this is git project.
+this is git demo.
